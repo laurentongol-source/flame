@@ -1,0 +1,45 @@
+body {
+    background-color: #dffaff; /* Light parchment background */
+    color: #333; /* Dark text for readability */
+    font-family: 'Arial', sans-serif; /* Clean and modern font */
+    padding: 20px;
+    text-align: center;
+   }
+   h1 {
+    color: #187994; /* Flame red for headings */
+    font-family:  cursive; /* More whimsical font for the title */
+    font-size: 50px;
+    background-color: #a9e8f6; /* Light flame color for the title background */
+    padding: 10px;
+   }
+   h2 {
+    color: #1e5f71; /* Flame red for subheadings */
+    font-family: cursive;
+    margin-top: 30px;
+   }
+    h3 {
+    color: #104e5f; /* Flame red for subheadings */
+    font-family: cursive;
+    margin-top: 30px;
+   }
+   p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   }
+   ol {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   }
+    li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  em {
+    color: #187994; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+  }
+  strong {
+    color: #223d45; 
+  }
+  a {
+    color: #165e72; 
+    text-decoration: underline;
+  }
