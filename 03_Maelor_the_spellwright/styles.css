@@ -22,8 +22,9 @@ h1 {
 
 .profile-img {
   max-width: 100%;
-  border-radius: 8px;
+  border-radius: 50px;
   margin-bottom: 16px;
+  box-shadow: 10px 10px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 ul {

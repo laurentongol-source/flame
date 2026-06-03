@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: #fff7df;
+}
+
+h1 {
+    color: #b25a1b;
+    font-family: 'Georgia', serif;
+    font-size: 48px;
+    margin-top: 20px;
+}
+h2 {
+    color: #c36d30;
+    font-family: 'Georgia', serif;
+    font-size: 36px;
+    margin-top: 20px;
+}

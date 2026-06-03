@@ -2,15 +2,30 @@
 
 PREDICT:
 What will the page look like? Where will it appear?
+the size it is viewed in the window
+the head is the where the info goes. links the css to the main code / index. 
+title is the header of the broowser. Gives the header of the website
+div is to make a division between the sections or smth. its kinda like a table. 
+^ the name profile card is the name of the segment
+padding is how far to the center or the left img
+margin is the vertical placement
+img puts image crazy am i right?
+unordered list colours and stuff
+adds a border solid not whatever the other onses are ig 
+
+profile card css = customises everything in the section named under profile card
 
 RUN:
 Check that the image shows up and fits inside the card.
 
 INVESTIGATE:
 - What does max-width do?
+it dispplays the website and scales it to the device it is opened on
 - What’s the difference between margin and padding?
+margin is the restritions outside of elements ( sucha s div )
+padding is inside of the elements.
 - What are the . and # doing?
-
+the period is 
 MODIFY:
 - Round the image corners more
 - Add a drop shadow
