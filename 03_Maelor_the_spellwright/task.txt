@@ -1,6 +1,7 @@
 🟧 PRIMM: Style Your Candidate
 
 PREDICT:
+Before opening the page. Read the code and answer below:
 What will the page look like? Where will it appear?
 the size it is viewed in the window
 the head is the where the info goes. links the css to the main code / index. 
@@ -17,6 +18,7 @@ profile card css = customises everything in the section named under profile card
 
 RUN:
 Check that the image shows up and fits inside the card.
+What did you see? Were you right or wrong?
 
 INVESTIGATE:
 - What does max-width do?
