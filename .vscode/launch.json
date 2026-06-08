@@ -5,6 +5,12 @@
             "name": "http://127.0.0.1:3000/04_navbar_styling/index.html",
             "request": "launch",
             "url": "http://127.0.0.1:3000/04_navbar_styling/index.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/05_the_flame_campaign/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/05_the_flame_campaign/index.html"
         }
     ]
 }
