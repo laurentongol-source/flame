@@ -23,9 +23,13 @@ function matchRole() {
       message = "📊 You’d make a great Policy Analyst."
     } else if (position == "traditional" || selectedIssues.includes("education")) {
       message = "🎖️ You’d bring valuable perspective to Strategy.";
-    } else {
+    } else if (position == "progressive" && selectedIssues.includes("housing")) {
+      message = "You will be a builder. haha lol"
+    } else if 
+     else {
       message = "🤝 You’d be a great all-round supporter!";
     }
+   
   }
 
   document.getElementById("matchResult").innerText = message;

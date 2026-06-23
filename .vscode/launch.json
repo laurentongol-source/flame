@@ -11,6 +11,12 @@
             "name": "http://127.0.0.1:3000/05_the_flame_campaign/index.html",
             "request": "launch",
             "url": "http://127.0.0.1:3000/05_the_flame_campaign/index.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/08_contribute_to_the_campaign/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/08_contribute_to_the_campaign/index.html"
         }
     ]
 }

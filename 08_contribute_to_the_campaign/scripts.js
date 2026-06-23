@@ -16,5 +16,27 @@ function giveTenDollars() {
   document.getElementById("thankYouMessage").innerText = message;
 }
 
-document.getElementById("giveButton").onclick = giveTenDollars
 
+function refundTenDollars() {
+  if (totalDonations > 0) {
+    totalDonations = totalDonations - 10;
+    document.getElementById("totalDisplay").innerText = "Total raised: $" + totalDonations;
+
+    let message = "You're such a chud bru?";
+    document.getElementById("thankYouMessage").innerText = message;
+  } else if (totalDonations <= 0) {
+    totalDonations = 0
+
+    let message = "There's no money to take bozo"
+    document.getElementById("thankYouMessage").innerText = message;
+
+  }
+}
+
+
+
+ 
+
+
+document.getElementById("giveButton").onclick = giveTenDollars
+document.getElementById("refundButton").onclick = refundTenDollars

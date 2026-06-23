@@ -23,7 +23,7 @@ Let’s pick apart the code:
 
 🟠 MODIFY  
 Now try improving how the message is displayed:
-- Add a line break between the name and region using `\\n`
+- Add a line break between the name and region using `\n`
 - Change the sentence format completely (e.g. “From [region], we welcome [name] to the movement!”)
 - If either input is left blank, show “Please enter both your name and region.”
 You will need an if block to do this.
